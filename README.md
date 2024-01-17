@@ -1,4 +1,4 @@
-I simple C++ implementation of the classic game Simon.
+A simple C++ implementation of the classic game Simon.
 
 Just keep track of the order that the panels light up, then repeat the sequence.
 
